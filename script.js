@@ -66,5 +66,5 @@ function writePassword() {
         var randomChar = getRandomChar [Math.floor(Math.random() * choices.length)];
       password = getRandomChar(password + randomChar);
     }
-    return password;
+    return password;{}
 }
